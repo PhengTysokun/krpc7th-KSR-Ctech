@@ -6,4 +6,4 @@ for i in range (10):
       print ("EMERGENCY RETURN TRIGGERED")
       break
   elif battery < 80:
-      print("Caution Message") 
+      print("Bro , watch out") 
